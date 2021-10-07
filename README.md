@@ -1,6 +1,6 @@
-# front
+# Material View
 
-Flutter - Master-Detail App - Material View
+Flutter - Master-Detail App - Phone/Tablet
 
 - Tabs based on rodydavis Flutter Take 5 - https://github.com/rodydavis/flutter_take_5
 - qr_flutter - QR Code Generator - https://pub.dev/packages/qr_flutter
